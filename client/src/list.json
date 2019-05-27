@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Whisky",
+        "status": "InStock",
+        "img": "https://res.cloudinary.com/walmart-labs/image/upload/w_225,dpr_1,f_auto,q_auto:eco/mg/images/product-images/img_large/09910001902078l.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Salt",
+        "status": "InStock",
+        "img": "https://res.cloudinary.com/walmart-labs/image/upload/w_225,dpr_1,f_auto,q_auto:eco/mg/images/product-images/img_large/09910001902078l.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sugar",
+        "status": "InStock",
+        "img": "https://media.istockphoto.com/photos/sugar-picture-id177146322?k=6&m=177146322&s=612x612&w=0&h=F9fEJ9p1grxXCVGnd8VvXTAlEE9TZyeWjdkZ9HQxpao="
+    },
+    {
+        "id": 4,
+        "name": "rice",
+        "status": "InStock",
+        "img": "https://res.cloudinary.com/walmart-labs/image/upload/w_225,dpr_1,f_auto,q_auto:eco/mg/images/product-images/img_large/09910001902078l.jpg"
+    },
+    {
+        "id": 5,
+        "name": "biryani",
+        "status": "Ordered",
+        "img": "https://res.cloudinary.com/walmart-labs/image/upload/w_225,dpr_1,f_auto,q_auto:eco/mg/images/product-images/img_large/09910001902078l.jpg"
+    },
+    {
+        "id": 6,
+        "name": "maida",
+        "status": "InStock",
+        "img": "https://res.cloudinary.com/walmart-labs/image/upload/w_225,dpr_1,f_auto,q_auto:eco/mg/images/product-images/img_large/09910001902078l.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Whisky",
+        "status": "InStock",
+        "img": "https://res.cloudinary.com/walmart-labs/image/upload/w_225,dpr_1,f_auto,q_auto:eco/mg/images/product-images/img_large/09910001902078l.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Gren Peas",
+        "status": "InStock",
+        "img": "https://res.cloudinary.com/walmart-labs/image/upload/w_225,dpr_1,f_auto,q_auto:eco/mg/images/product-images/img_large/09910001902078l.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Peas",
+        "status": "InStock",
+        "img": "https://res.cloudinary.com/walmart-labs/image/upload/w_225,dpr_1,f_auto,q_auto:eco/mg/images/product-images/img_large/09910001902078l.jpg"
+    },
+    {
+        "id": 10,
+        "name": "rice",
+        "status": "InStock",
+        "img": "https://res.cloudinary.com/walmart-labs/image/upload/w_225,dpr_1,f_auto,q_auto:eco/mg/images/product-images/img_large/09910001902078l.jpg"
+    },
+    {
+        "id": 11,
+        "name": "biryani",
+        "status": "InStock",
+        "img": "https://res.cloudinary.com/walmart-labs/image/upload/w_225,dpr_1,f_auto,q_auto:eco/mg/images/product-images/img_large/09910001902078l.jpg"
+    },
+    {
+        "id": 12,
+        "name": "maida",
+        "status": "InStock",
+        "img": "https://res.cloudinary.com/walmart-labs/image/upload/w_225,dpr_1,f_auto,q_auto:eco/mg/images/product-images/img_large/09910001902078l.jpg"
+    }    
+]
